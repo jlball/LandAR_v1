@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{720F8B3C-9694-E0C6-9209-956CC9052F59}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/rotateDish.cs">
+    <Files>
+      <File FileName="Assets/VirtualJoystick.cs" Line="34" Column="13" />
+      <File FileName="Assets/LanderControl.cs" Line="34" Column="10" />
+      <File FileName="Assets/Gravity.cs" Line="31" Column="47" />
+      <File FileName="Assets/FireThruster.cs" Line="18" Column="11" />
+      <File FileName="Assets/fuelMeterColorIndicator.cs" Line="29" Column="48" />
+      <File FileName="Assets/padRefuel.cs" Line="13" Column="5" />
+      <File FileName="Assets/SetupPlanet.cs" Line="56" Column="68" />
+      <File FileName="Assets/rotateDish.cs" Line="14" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AR_220Moonlander PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

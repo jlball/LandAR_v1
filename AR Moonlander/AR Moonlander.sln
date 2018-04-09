@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Moonlander", "AR Moonlander.csproj", "{720F8B3C-9694-E0C6-9209-956CC9052F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Moonlander.Editor", "AR Moonlander.Editor.csproj", "{8522344E-E363-FB82-B88C-A0DBA083DFFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{720F8B3C-9694-E0C6-9209-956CC9052F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720F8B3C-9694-E0C6-9209-956CC9052F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720F8B3C-9694-E0C6-9209-956CC9052F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720F8B3C-9694-E0C6-9209-956CC9052F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8522344E-E363-FB82-B88C-A0DBA083DFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8522344E-E363-FB82-B88C-A0DBA083DFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8522344E-E363-FB82-B88C-A0DBA083DFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8522344E-E363-FB82-B88C-A0DBA083DFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
